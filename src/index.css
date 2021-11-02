@@ -1,0 +1,16 @@
+#root, body, html{
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    background: url(./assets/Background.png);
+    background-size: cover;
+}
+
+.monster{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
